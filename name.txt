@@ -7,3 +7,4 @@ bootstrap
 
 Jquery
 react
+angular
