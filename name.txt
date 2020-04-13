@@ -2,3 +2,8 @@ html
 css
 js
 bootstrap
+
+
+
+Jquery
+react
